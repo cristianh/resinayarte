@@ -1,0 +1,10 @@
+[
+    {"id":"001","name":"Collar Otoñal","url": "/assets/images/imag8.jpg", "descripcion":"Collares hechos a mano, creados con amor y dedicación. Cada pieza es simplemente inigualable","precio":15000},
+    {"id":"002","name":"Collar Margarita","url": "/assets/images/imag2.jpg", "descripcion":"Lleva contigo un collar inigualable, fabricado artesanalmente para resaltar tu estilo único.","precio":15000},
+    {"id":"003","name":"Collar Aurivioleta","url": "/assets/images/imag4.jpg", "descripcion":"Artesanía en su máxima expresión: collares hechos a mano que combinan diseño y exclusividad.","precio":15000},
+    {"id":"004","name":"Mako Turquesa","url": "/assets/images/imag27.jpg", "descripcion":"Inspírate con collares hechos a mano, cada pieza es una obra de arte inigualable.","precio":15000},
+    {"id":"005","name":"Estrella Mística","url": "/assets/images/imag28.jpg", "descripcion":"Collares hechos a mano con detalles únicos que marcan la diferencia. ¡Inigualables!","precio":15000},
+    {"id":"006","name":"Amuleto Carmesí","url": "/assets/images/imag29.jpg", "descripcion":"La elegancia de lo artesanal: collares hechos a mano que son tan únicos como tú.","precio":15000},
+    {"id":"007","name":"Luz de Girasol","url": "/assets/images/imag30.jpg", "descripcion":"Atrévete a destacar con nuestros collares hechos a mano, diseños inigualables que te enamorarán.","precio":5000},
+    {"id":"008","name":"Lirio Místico","url": "/assets/images/imag31.jpg", "descripcion":"La perfección en lo simple: collares hechos a mano, pensados ​​para quienes buscan algo especial.","precio":5000}
+]

@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-image: url('./assets/images/2paVAMd9wPsBQg1Xv63DDInrXN9.svg');
+  background-size: cover; /* Hace que el SVG cubra toda el área */
+  background-position: left; /* Centra el SVG */
+  background-repeat: no-repeat; /* Evita que se repita el SVG */
+}
+
+body::before {
+  content: ''; /* Necesario para crear el pseudo-elemento */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Capa con opacidad */
+  z-index: -1; /* Asegura que esté debajo del contenido */
+  filter: invert(1);
+}
+
+.slick-prev{
+  left:1rem !important;
+  z-index: 1;
+}
+
+.slick-next{
+  right:1rem !important;
+  z-index: 1;
+}
+
+.slick-dots{
+  top:90%;
+  z-index: 1;
+}

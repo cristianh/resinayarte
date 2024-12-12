@@ -1,0 +1,23 @@
+.container-login{
+    align-items: stretch;
+    display: flex;
+    flex-direction: column;
+    flex: 12px;
+    gap: 3em;
+    justify-content: center;
+    left: 50%;
+    margin: 0px auto;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 30rem;
+  }
+  
+  .container-form{
+    display: flex;
+    flex-direction: column;
+    gap: 19px;
+    justify-content: space-evenly;
+  }
+
+  
